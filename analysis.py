@@ -1,2 +1,2 @@
 def test():
-      print("All fixed!")
+    print("All fixed!")
